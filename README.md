@@ -1,6 +1,6 @@
 # Valuation models
 
-Six company and deal valuations I built in Excel while studying for the Finance MBA at SKK GSB. Each workbook opens on a cover sheet that shows the live key outputs, the data date, the method notes and a review log of what changed before publication.
+Six valuation projects (23 workbooks) I built in Excel while studying for the Finance MBA at SKK GSB. Each workbook opens on a cover sheet that shows the live key outputs, the data date and the method notes; the main models also log what changed before publication.
 
 Every number is a live formula on a labelled input. If you change an assumption, the whole workbook updates.
 
@@ -11,7 +11,7 @@ Every number is a live formula on a labelled input. If you change an assumption,
 | [apple](apple) | Apple (NASDAQ: AAPL) | DCF with scenarios, perpetuity and exit-multiple terminal values, reverse DCF | 2 Oct 2026 | $151 / $234 per share vs. $333.69; price implies 7.3% perpetual growth |
 | [amazon](amazon) | Amazon (NASDAQ: AMZN) | DCF, trading comparables, residual income, reverse DCF | 21 Aug 2026 | DCF $119, comps $207, RI $91 vs. $258.63 |
 | [posco](posco) | POSCO Holdings (KRX: 005490) | Through-the-cycle DCF, sensitivity, reverse DCF | 8 Oct 2026 | ₩510,600 vs. ₩309,500; price implies ~0% growth |
-| [us-kr-jp-portfolio-dcfs](us-kr-jp-portfolio-dcfs) | 18 US, Korean and Japanese stocks considered for a hedged portfolio | FCFF, FCFE, AFFO and a systematic earnings/FCF model on shared market inputs | 22–28 Sep 2026 | 14 of 18 clear a 15% upside hurdle |
+| [us-kr-jp-portfolio-dcfs](us-kr-jp-portfolio-dcfs) | 18 US, Korean and Japanese stocks considered for a hedged portfolio (one workbook each, plus a combined summary) | FCFF, FCFE, AFFO and a systematic earnings/FCF model on shared market inputs | 22–28 Sep 2026 | 14 of 18 clear a 15% upside hurdle |
 
 ## What the models have in common
 
